@@ -1,5 +1,7 @@
 ## Hello 👋
 
+![Some crazy things](../full-logo-dark-blue.jpg)
+
 Applogs is the log management application that we develop to make life as easy as possible for developers.
 
 ### 🚀 Available features
