@@ -1,6 +1,6 @@
 ## Hello 👋
 
-![Applogs dark blue logo](../full-logo-dark-blue.jpg)
+![Applogs dark blue logo](https://github.com/app-logs/.github/blob/63e160ccccb87746815be903c330700b39c8d632/full-logo-dark-blue.jpg)
 
 Applogs is the log management application that we develop to make life as easy as possible for developers.
 
