@@ -27,7 +27,7 @@ Here are our available channels.
 
 - [Facebook](https://www.facebook.com/applogs)
 
-
+---
 
 [Get started today 🤩](https://app-logs.com)
 
