@@ -28,6 +28,7 @@ We are planing to have as much log sources as possible.
 Here are our available channels.
 
 - [Facebook](https://www.facebook.com/applogs)
+- [Twitter](https://www.twitter.com/app_logs)
 
 ---
 
