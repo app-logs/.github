@@ -17,6 +17,7 @@ Applogs is the log management application that we develop to make life as easy a
 We are planing to have as much log sources as possible.
 
 - Heroku
+- Vercel
 - Javascript bug reports - `coming soon`
 - Java bug reports - `coming soon`
 - Php bug reports - `coming soon`
