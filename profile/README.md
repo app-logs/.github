@@ -2,7 +2,7 @@
 
 ![Applogs dark blue logo](https://github.com/app-logs/.github/blob/63e160ccccb87746815be903c330700b39c8d632/full-logo-dark-blue.jpg)
 
-Applogs is the log management application that we develop to make life as easy as possible for developers.
+[Applogs](https://app-logs.com) is the error-tracking application that we developed to make life as easy as possible for developers.
 
 ### 🚀 Available features
 - Live tail
@@ -14,11 +14,11 @@ Applogs is the log management application that we develop to make life as easy a
 
 ### ℹ️ Log sources
 
-We are planing to have as much log sources as possible.
+We are planning to have as many log sources as possible.
 
 - Heroku
 - Vercel
-- Javascript bug reports - `coming soon`
+- Javascript bug reports
 - Java bug reports - `coming soon`
 - Php bug reports - `coming soon`
 - Python bug reports - `coming soon`
