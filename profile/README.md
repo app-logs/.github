@@ -2,7 +2,7 @@
 
 ![Applogs dark blue logo](https://github.com/app-logs/.github/blob/63e160ccccb87746815be903c330700b39c8d632/full-logo-dark-blue.jpg)
 
-[Applogs](https://app-logs.com) is the error-tracking application that we developed to make life as easy as possible for developers.
+We developed [Applogs](https://app-logs.com), an error-tracking app that streamlines debugging and empowers developers.
 
 ### 🚀 Available features
 - Live tail
@@ -19,7 +19,7 @@ We are planning to have as many log sources as possible.
 - Heroku
 - Vercel
 - Javascript bug reports
-- Java bug reports - `coming soon`
+- Java bug reports
 - Php bug reports - `coming soon`
 - Python bug reports - `coming soon`
 - Asp.net bug reports - `coming soon`
